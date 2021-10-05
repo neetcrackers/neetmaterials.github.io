@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'serverpress';
-  src: url('https://neetmaterials.github.io/home/ds-plugins/ds-cli/fontello/font/serverpress.eot?40717621');
-  src: url('https://neetmaterials.github.io/home/ds-plugins/ds-cli/fontello/font/serverpress.eot?40717621#iefix') format('embedded-opentype'),
-       url('https://neetmaterials.github.io/home/ds-plugins/ds-cli/fontello/font/serverpress.woff?40717621') format('woff'),
-       url('https://neetmaterials.github.io/home/ds-plugins/ds-cli/fontello/font/serverpress.ttf?40717621') format('truetype'),
-       url('https://neetmaterials.github.io/home/ds-plugins/ds-cli/fontello/font/serverpress.svg?40717621#serverpress') format('svg');
+  src: url('https://neetmaterials.github.io/ds-plugins/ds-cli/fontello/font/serverpress.eot?40717621');
+  src: url('https://neetmaterials.github.io/ds-plugins/ds-cli/fontello/font/serverpress.eot?40717621#iefix') format('embedded-opentype'),
+       url('https://neetmaterials.github.io/ds-plugins/ds-cli/fontello/font/serverpress.woff?40717621') format('woff'),
+       url('https://neetmaterials.github.io/ds-plugins/ds-cli/fontello/font/serverpress.ttf?40717621') format('truetype'),
+       url('https://neetmaterials.github.io/ds-plugins/ds-cli/fontello/font/serverpress.svg?40717621#serverpress') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'serverpress';
-    src: url('https://neetmaterials.github.io/home/ds-plugins/ds-cli/fontello/font/serverpress.svg?40717621#serverpress') format('svg');
+    src: url('https://neetmaterials.github.io/ds-plugins/ds-cli/fontello/font/serverpress.svg?40717621#serverpress') format('svg');
   }
 }
 */
