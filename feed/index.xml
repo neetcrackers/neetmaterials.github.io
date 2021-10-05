@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Neet Materials</title>
+	<atom:link href="https://neetmaterials.github.io/home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://neetmaterials.github.io/home/</link>
+	<description></description>
+	<lastBuildDate>Mon, 04 Oct 2021 06:30:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Physics Aakash Ncert Maps</title>
+		<link>https://neetmaterials.github.io/home/2021/10/04/physics-aakash-ncert-maps/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2021 05:09:35 +0000</pubDate>
+				<category><![CDATA[Aakash Ncert Maps]]></category>
+		<guid isPermaLink="false">https://neetmaterials.github.io/home/?p=46</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="46" class="elementor elementor-46" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-25d0c54 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="25d0c54" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3ef1df7" data-id="3ef1df7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d53b86 elementor-widget elementor-widget-html" data-id="2d53b86" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<iframe loading="lazy" src="https://drive.google.com/file/d/1I2glI_dLZCUXlvMsYnGlr0Jfqs309cOA/preview" width="640" height="480" allow="autoplay"></iframe>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
